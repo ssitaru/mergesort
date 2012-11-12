@@ -80,7 +80,6 @@ tbody tr:nth-child(even) td {
     width: 600px;
     height: 15px;
     font-size: 0.9em;
-    text-align: center;
     float:left;
     margin-top: 5px;
     
@@ -109,10 +108,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3cce39', end
 
 #progresstext {
     position: absolute;
-    margin-left: 250px;
     display: inline;
     z-index: 99;
     text-align: center;
+    width: 600px;
+    margin: 0;
 }
 
 /* h1, h2, ... */
