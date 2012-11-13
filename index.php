@@ -63,7 +63,7 @@ $scriptStartTime = time();
 <h2>&ndash; by David, Kilian, Rick, Sebastian</h2>
 <div id="progressdiv">
     <div id="progressbar-outer"><div id="progresstext"></div><div id="progressbar-inner"></div></div>
-    <img id="progressimg" alt="progress image" style=""/>
+    <img id="progressimg" alt="progress image" style="" src="img/progress_loop.gif"/>
 </div>
 <table>
 <thead>
